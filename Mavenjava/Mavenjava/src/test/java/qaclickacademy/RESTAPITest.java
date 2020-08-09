@@ -25,7 +25,6 @@ public class RESTAPITest {
 	public void deleteTwitter()
 	{
 		System.out.println("deleteTwitter");
-		System.out.println("This is the change to be reflected only on BRANCH1.");
 		
 	}
 }
