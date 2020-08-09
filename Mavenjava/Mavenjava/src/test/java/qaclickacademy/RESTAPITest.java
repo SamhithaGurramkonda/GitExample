@@ -26,14 +26,12 @@ public class RESTAPITest {
 	{
 		System.out.println("deleteTwitter");	
 		System.out.println("deleteTwitter");
-<<<<<<< HEAD
-=======
+
 		System.out.println("This is the change to be reflected only on BRANCH1.");
 		System.out.println("222222 BRANCH1.");
 		
 		System.out.println("Fisrt commit by X");
 		System.out.println("First commit by X");
->>>>>>> branch1
 		
 	}
 }
