@@ -29,8 +29,8 @@ public class RESTAPITest {
 		System.out.println("This is the change to be reflected only on BRANCH1.");
 		System.out.println("222222 BRANCH1.");
 		
-		System.out.println("Fisrt commit by X");
-		System.out.println("First commit by X");
+		System.out.println("Branch1 Fisrt commit by X");
+		System.out.println("Branch1 First commit by X");
 		
 	}
 }
